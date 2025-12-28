@@ -24,9 +24,3 @@
 ![CSS](https://img.shields.io/badge/CSS-65%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-## 📊 Estatísticas GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=plim7plim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
