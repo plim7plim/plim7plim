@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Plínio Peixoto
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software e Sistemas Para Internet
 💻 Foco em Back-End (Java, Linux, DevOps) | Explorando JavaScript, HTML e CSS  
 
 📍 Itaberaí, GO, Brasil  
