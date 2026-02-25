@@ -52,6 +52,5 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=plim7plim&theme=github_dark"/>
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark" />
 </p>
