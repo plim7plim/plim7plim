@@ -52,6 +52,6 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plim7plim&layout=compact&theme=github_dark"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=plim7plim&theme=github_dark"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=github_dark"/>
 </p>
