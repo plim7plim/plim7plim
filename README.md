@@ -17,7 +17,7 @@
 
 ## 🌐 Contato
 
- align="left">
+ <p align="left">
   <a href="https://www.linkedin.com/in/plínio-peixoto/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
