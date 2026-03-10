@@ -49,17 +49,6 @@
 
 ---
 
----
-
-## 🎮 Jogos
-
-<p>
-  <img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=riotgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hollow_Knight:_Silksong-3E2A5E?style=for-the-badge&logo=steam&logoColor=white"/>
-</p>
-
----
-
 ## 🚀 Atualmente estudando
 
 - Docker 🐳  
@@ -67,6 +56,15 @@
 - GitHub Actions ⚙️  
 - Arquitetura de APIs REST  
 
+---
+## 🎯 Hobbies
+
+<p>
+  🎧 Escutar música <br>
+  🧠 Trabalhar em projetos pessoais <br>
+  🎮 Jogar games <br>
+  ♟️ Jogar xadrez <br>
+</p>
 ---
 
 ## 📊 Estatísticas GitHub
