@@ -48,6 +48,11 @@
 </p>
 
 ---
+## 🎧 Currently Listening
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=default)](https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6)
+
+---
 
 ## 🚀 Atualmente estudando
 
