@@ -51,16 +51,13 @@
 
 ## 🎧 Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=novatorem)](https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=default)
 
 ---
 
-## 🎬 Últimos filmes assistidos
+## 🎬 Filmes
 
-<a href="https://boxd.it/fUPVb">
-<img src="https://letterboxd-recent.vercel.app/api?username=pliniops&theme=dark"/>
-</a>
-
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-Ver%20perfil-202830?style=for-the-badge&logo=letterboxd)](https://boxd.it/fUPVb)
 ---
 
 ## 🚀 Atualmente estudando
