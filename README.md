@@ -49,15 +49,15 @@
 
 ---
 
-## 🎧 Spotify
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=default)
-
 ---
 
-## 🎬 Filmes
+## 🎮 Jogos
 
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-Ver%20perfil-202830?style=for-the-badge&logo=letterboxd)](https://boxd.it/fUPVb)
+<p>
+  <img src="https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=riotgames&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hollow_Knight:_Silksong-3E2A5E?style=for-the-badge&logo=steam&logoColor=white"/>
+</p>
+
 ---
 
 ## 🚀 Atualmente estudando
