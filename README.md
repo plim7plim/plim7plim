@@ -17,12 +17,21 @@
 
 ## 🌐 Contato
 
-<p align="left">
+ align="left">
   <a href="https://www.linkedin.com/in/plínio-peixoto/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/pliniops_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6?si=04-IeFJwRBmyKm72RRmcdQ">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+
+  <a href="https://boxd.it/fUPVb">
+    <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white"/>
   </a>
 </p>
 
