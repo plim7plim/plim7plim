@@ -17,7 +17,7 @@
 
 ## 🌐 Contato
 
- <p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/plínio-peixoto/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6?si=04-IeFJwRBmyKm72RRmcdQ">
+  <a href="https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 
@@ -48,9 +48,19 @@
 </p>
 
 ---
-## 🎧 Currently Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=default)](https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6)
+## 🎧 Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=69rxbtymzkrjz53cud5g6gmo6&cover_image=true&theme=novatorem)](https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6)
+
+---
+
+## 🎬 Últimos filmes assistidos
+
+<a href="https://boxd.it/fUPVb">
+<img src="https://letterboxd-recent.vercel.app/api?username=pliniops&theme=dark"/>
+</a>
+
 ---
 
 ## 🚀 Atualmente estudando
