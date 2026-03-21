@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Redes
 
 <p align="left">
   <a href="https://www.linkedin.com/in/plínio-peixoto/">
