@@ -8,7 +8,7 @@
 
 # 👋 Olá, eu sou o Plínio Peixoto
 
-💼 Desenvolvedor Full-Stack Jr. na Blu Promotora
+💼 Desenvolvedor Full-Stack Jr. 
 
 🎓 Estudante de Engenharia de Software e Sistemas para Internet
 
