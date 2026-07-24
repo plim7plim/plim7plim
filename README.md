@@ -105,19 +105,14 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plim7plim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plim7plim&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=plim7plim&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plim7plim&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plim7plim&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark&hide_border=true" />
 </p>
