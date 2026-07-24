@@ -12,9 +12,7 @@
 
 🎓 Estudante de Engenharia de Software e Sistemas para Internet
 
-☁️ Apaixonado por Cloud Computing, Back-End e DevOps
-
-💻 Experiência com Java, AWS, Linux, APIs REST, Docker e automação de infraestrutura
+💻 Experiência com Java, AWS, Linux, Docker e automação de infraestrutura
 
 📍 GO, Brasil
 
