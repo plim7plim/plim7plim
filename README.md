@@ -105,5 +105,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=plim7plim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plim7plim&theme=github_dark&utcOffset=-3" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=plim7plim&theme=github_dark" />
 </p>
