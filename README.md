@@ -16,7 +16,7 @@
 
 💻 Experiência com Java, AWS, Linux, APIs REST, Docker e automação de infraestrutura
 
-📍 Itaberaí, GO, Brasil
+📍 GO, Brasil
 
 ---
 
@@ -44,8 +44,7 @@
 
 ## 💼 Experiência
 
-### **Desenvolvedor Full-Stack Jr. | Blu Promotora**
-
+### **Desenvolvedor Full-Stack Jr. 
 ---
 
 ## 🧠 Tecnologias
@@ -80,9 +79,6 @@
 - AWS Cloud Computing
 - Docker
 - Kubernetes
-- Spring Boot
-- GitHub Actions
-- CI/CD
 - Arquitetura de Microsserviços
 - Arquitetura de APIs REST
 - Preparação para a AWS Certified Developer – Associate (DVA-C02)
@@ -109,10 +105,5 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plim7plim&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
 </p>
