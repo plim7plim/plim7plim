@@ -40,6 +40,16 @@
 
 ---
 
+## 🌐 Portfólio
+
+<p align="left">
+  <a href="https://www.plinioportifolio.xyz">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-7B2CF3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 💼 Experiência
 
 ### **Desenvolvedor Full-Stack Jr. 
@@ -94,10 +104,7 @@
 ♟️ Jogar xadrez
 
 ---
-<a href="https://www.plinioportifolio.xyz">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-7B2CF3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
----
+
 ## 📊 Estatísticas
 
 <!-- Summary Card -->
