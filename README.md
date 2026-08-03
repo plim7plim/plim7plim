@@ -94,15 +94,10 @@
 ♟️ Jogar xadrez
 
 ---
+
 ## 🌐 Portfólio
 
-<p align="left">
-  <a href="https://www.plinioportifolio.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Meu_Portfólio-7B2CF3?style=for-the-badge" />
-  </a>
-</p>
-
-🔗 **https://www.plinioportifolio.xyz**
+**Meu Portfólio:** https://www.plinioportifolio.xyz
 ---
 
 ## 📊 Estatísticas
