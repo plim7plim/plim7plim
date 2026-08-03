@@ -39,12 +39,11 @@
 </p>
 
 ---
-
 ## 🌐 Portfólio
 
 <p align="left">
-  <a href="https://www.plinioportifolio.xyz">
-    <img src="https://img.shields.io/badge/Meu_Portfólio-7B2CF3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://www.plinioportifolio.xyz" target="_blank">
+    <img src="icon.png" alt="Meu Portfólio" width="120"/>
   </a>
 </p>
 
