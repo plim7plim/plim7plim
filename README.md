@@ -108,9 +108,8 @@
 
 <!-- Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plim7plim&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark&hide_border=true"/>
 </p>
-
 <!-- Gráfico -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=plim7plim&theme=github-dark&hide_border=true" />
