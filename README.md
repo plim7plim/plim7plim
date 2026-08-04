@@ -108,7 +108,7 @@
 
 <!-- Summary Card -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=plim7plim&theme=discord&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 <!-- Gráfico -->
 <p align="center">
