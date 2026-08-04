@@ -108,7 +108,7 @@
 
 <!-- Summary Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=plim7plim&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=plim7plim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 <!-- Gráfico -->
 <p align="center">
