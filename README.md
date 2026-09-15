@@ -1,52 +1,103 @@
+<!-- 🌌 Header animado -->
 <p align="center">
-  <img src="./header.svg" alt="Plínio Peixoto — entre o código e a infraestrutura." width="100%" />
+  <a href="./header.svg">
+    <img src="./header.svg" alt="Saturno com Linux, Docker, AWS, Java e Kubernetes em órbita" width="100%" />
+  </a>
+</p>
+
+<h1 align="center">👋 Olá, eu sou o Plínio Peixoto</h1>
+
+<p align="center">
+  <strong>Desenvolvedor Full-Stack Jr. na Blu</strong><br />
+  Desenvolvimento, cloud e automação de infraestrutura.
 </p>
 
 <p align="center">
-  <a href="https://www.plinioportifolio.xyz"><strong>Portfólio ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/plínio-peixoto/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pliniops_/">Instagram</a>
+  <a href="https://www.linkedin.com/in/plínio-peixoto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/pliniops_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify" />
+  </a>
+  <a href="https://boxd.it/fUPVb">
+    <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&amp;logo=letterboxd&amp;logoColor=white" alt="Letterboxd" />
+  </a>
 </p>
 
-<br />
+---
 
-### / sobre
+## 🌐 Meu portfólio
 
-Sou o **Plínio**, desenvolvedor **Full-Stack Jr. na Blu**, de Goiás. Meu interesse vai do código à infraestrutura: desenvolver a aplicação, entender onde ela roda e automatizar o que puder pelo caminho.
+<p align="center">
+  <a href="https://www.plinioportifolio.xyz">
+    <img src="./portfolio.svg" alt="Acessar meu portfólio — www.plinioportifolio.xyz" width="100%" />
+  </a>
+</p>
 
-Tenho experiência com **Java, AWS, Linux, Docker e automação de infraestrutura**. Estudo **Engenharia de Software** e **Sistemas para Internet**, e também dedico tempo a projetos pessoais.
+---
 
-### / ferramentas
+## 💫 Sobre mim
 
-| Onde | Com o que trabalho |
-| :--- | :--- |
-| Desenvolvimento | Java · JavaScript · HTML · CSS |
-| Cloud e infraestrutura | AWS · Linux · Docker |
-| Automação | GitHub Actions |
+💼 **Desenvolvedor Full-Stack Jr. na Blu**  
+🎓 Estudante de **Engenharia de Software** e **Sistemas para Internet**  
+💻 Experiência com **Java, AWS, Linux, Docker e automação de infraestrutura**  
+📍 **Goiás, Brasil**
 
-### / em construção
+Gosto de entender o caminho completo de uma aplicação: do código à infraestrutura. Nos meus projetos pessoais, encontro espaço para testar ideias e colocar os estudos em prática.
 
-Estou aprofundando meus estudos em **AWS**, **Docker e Kubernetes**, além de arquitetura de **APIs REST e microsserviços**.
+---
 
-☁️ **Certificação:** AWS Certified Cloud Practitioner — **CLF-C02**  
-📖 **Em preparação:** AWS Certified Developer – Associate — **DVA-C02**
+## 🧠 Tecnologias
 
-### / fora do terminal
+**Desenvolvimento**
 
-Entre um projeto e outro: música no fone, uma partida de xadrez e algum game.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+</p>
 
-[O que eu escuto ↗](https://open.spotify.com/user/69rxbtymzkrjz53cud5g6gmo6) &nbsp;·&nbsp; [Meu Letterboxd ↗](https://boxd.it/fUPVb)
+**Cloud, infraestrutura e automação**
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
 
-<details>
-  <summary><strong>/ atividade no GitHub</strong></summary>
-  <br />
-  <p align="center">
-    <a href="https://github.com/plim7plim">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=plim7plim&amp;bg_color=0b1418&amp;color=9db3b9&amp;line=5ee0b5&amp;point=e8f4ef&amp;area=true&amp;area_color=173e36&amp;hide_border=true" alt="Gráfico de contribuições de plim7plim no GitHub" width="100%" />
-    </a>
-  </p>
-</details>
+---
+
+## 🚀 Atualmente estudando
+
+- ☁️ **AWS Cloud Computing**, com foco na certificação **Developer – Associate (DVA-C02)**.
+- 🐳 **Docker e Kubernetes**, aprofundando os estudos em contêineres e orquestração.
+- 🔗 **Arquitetura de APIs REST e microsserviços**.
+
+**✅ Certificação conquistada:** AWS Certified Cloud Practitioner **(CLF-C02)**.
+
+---
+
+## 🎧 Além do código
+
+🎵 Escutar música  
+🧠 Desenvolver projetos pessoais  
+🎮 Jogar games  
+♟️ Jogar xadrez
+
+---
+
+## 📊 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=plim7plim&amp;theme=tokyonight&amp;hide_border=true" alt="Sequência de contribuições de plim7plim no GitHub" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=plim7plim&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=8b5cf6&amp;point=38bdf8&amp;area=true&amp;area_color=8b5cf6&amp;hide_border=true" alt="Gráfico de contribuições de plim7plim no GitHub" width="100%" />
+</p>
+
