@@ -1,58 +1,126 @@
-<svg width="100%" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="100%" height="100%" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" fill="none" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Saturno e minhas tecnologias</title>
+  <desc id="header-desc">Linux, Docker, AWS, Java e Kubernetes orbitam Saturno em um céu estrelado. A animação respeita a preferência por movimento reduzido.</desc>
+  <defs>
+    <radialGradient id="space-glow">
+      <stop stop-color="#252348" stop-opacity=".65" />
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="saturn" x1="475" y1="166" x2="526" y2="237" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0C2" /><stop offset=".42" stop-color="#DFC19A" /><stop offset="1" stop-color="#967698" />
+    </linearGradient>
+    <linearGradient id="ring" x1="433" y1="220" x2="570" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" /><stop offset=".5" stop-color="#F5DEB3" /><stop offset="1" stop-color="#A5B4FC" />
+    </linearGradient>
+    <clipPath id="planet-clip"><circle cx="500" cy="200" r="37" /></clipPath>
+    <g id="label-linux">
+      <rect x="-39" y="-13" width="78" height="26" rx="13" fill="#0D1117" stroke="#FACC15" stroke-opacity=".4" />
+      <circle cx="-26" cy="0" r="3" fill="#FACC15" />
+      <text x="7" y="5.5" fill="#FACC15" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Linux</text>
+    </g>
+    <g id="label-docker">
+      <rect x="-47" y="-13" width="94" height="26" rx="13" fill="#0D1117" stroke="#38BDF8" stroke-opacity=".4" />
+      <circle cx="-34" cy="0" r="3" fill="#38BDF8" />
+      <text x="7" y="5.5" fill="#38BDF8" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Docker</text>
+    </g>
+    <g id="label-aws">
+      <rect x="-37" y="-13" width="74" height="26" rx="13" fill="#0D1117" stroke="#FFAD42" stroke-opacity=".4" />
+      <circle cx="-24" cy="0" r="3" fill="#FFAD42" />
+      <text x="7" y="5.5" fill="#FFAD42" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">AWS</text>
+    </g>
+    <g id="label-java">
+      <rect x="-36" y="-13" width="72" height="26" rx="13" fill="#0D1117" stroke="#FB923C" stroke-opacity=".4" />
+      <circle cx="-23" cy="0" r="3" fill="#FB923C" />
+      <text x="7" y="5.5" fill="#FB923C" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Java</text>
+    </g>
+    <g id="label-kubernetes">
+      <rect x="-69" y="-13" width="138" height="26" rx="13" fill="#0D1117" stroke="#818CF8" stroke-opacity=".4" />
+      <circle cx="-56" cy="0" r="3" fill="#818CF8" />
+      <text x="7" y="5.5" fill="#818CF8" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">Kubernetes</text>
+    </g>
+  </defs>
+  <style>
+    .still { display: none; }
+    .twinkle { animation: twinkle 5s ease-in-out infinite alternate; }
+    .late { animation-delay: -2.5s; }
+    @keyframes twinkle { from { opacity: .25; } to { opacity: .85; } }
+    @media (prefers-reduced-motion: reduce) {
+      .orbiting { display: none; }
+      .still { display: inline; }
+      .twinkle { animation: none; }
+    }
+  </style>
+  <rect width="1000" height="400" rx="18" fill="#0D1117" />
+  <ellipse cx="500" cy="200" rx="460" ry="195" fill="url(#space-glow)" />
 
   <!-- Estrelas -->
-  <g fill="white">
-    <circle cx="100" cy="50" r="1"/>
-    <circle cx="300" cy="80" r="1"/>
-    <circle cx="700" cy="120" r="1"/>
-    <circle cx="900" cy="60" r="1"/>
-    <circle cx="500" cy="30" r="1"/>
-    <circle cx="200" cy="200" r="1"/>
-    <circle cx="800" cy="250" r="1"/>
-    <circle cx="150" cy="320" r="1"/>
-    <circle cx="850" cy="350" r="1"/>
+  <g fill="#E6EDF3" opacity=".55">
+    <circle cx="100" cy="50" r="1" /><circle cx="300" cy="80" r="1" />
+    <circle cx="700" cy="120" r="1" /><circle cx="900" cy="60" r="1" />
+    <circle cx="500" cy="18" r="1" /><circle cx="200" cy="200" r="1" />
+    <circle cx="800" cy="250" r="1" /><circle cx="150" cy="320" r="1" />
+    <circle cx="850" cy="350" r="1" /><circle cx="58" cy="169" r="1" />
+    <circle cx="948" cy="273" r="1" /><circle cx="375" cy="365" r="1" />
+    <circle cx="618" cy="47" r="1" /><circle cx="75" cy="366" r="1" />
+  </g>
+  <g class="twinkle" fill="#C4B5FD">
+    <circle cx="242" cy="38" r="1.8" /><circle cx="772" cy="328" r="1.8" />
+    <circle cx="953" cy="93" r="1.5" />
+    <path d="M119 248v8m-4-4h8" stroke="#C4B5FD" stroke-linecap="round" />
+  </g>
+  <g class="twinkle late" fill="#BAE6FD">
+    <circle cx="681" cy="360" r="1.8" /><circle cx="64" cy="89" r="1.5" />
+    <path d="M864 135v8m-4-4h8" stroke="#BAE6FD" stroke-linecap="round" />
   </g>
 
-  <!-- Saturno -->
-  <text x="50%" y="52%" text-anchor="middle"
-        font-size="80" font-family="Segoe UI Emoji">
-    🪐
-  </text>
+  <!-- Órbitas elípticas: todas cabem no cabeçalho. -->
+  <g stroke-width="1">
+    <ellipse cx="500" cy="200" rx="135" ry="55" stroke="#FACC15" stroke-opacity=".17" />
+    <ellipse cx="500" cy="200" rx="200" ry="82" stroke="#38BDF8" stroke-opacity=".17" />
+    <ellipse cx="500" cy="200" rx="265" ry="110" stroke="#FFAD42" stroke-opacity=".17" />
+    <ellipse cx="500" cy="200" rx="330" ry="138" stroke="#FB923C" stroke-opacity=".17" />
+    <ellipse cx="500" cy="200" rx="400" ry="170" stroke="#818CF8" stroke-opacity=".17" />
+  </g>
 
-  <!-- Órbitas -->
-  <circle cx="500" cy="200" r="110" stroke="#30363d" stroke-width="1" fill="none"/>
-  <circle cx="500" cy="200" r="150" stroke="#30363d" stroke-width="1" fill="none"/>
-  <circle cx="500" cy="200" r="190" stroke="#30363d" stroke-width="1" fill="none"/>
-  <circle cx="500" cy="200" r="230" stroke="#30363d" stroke-width="1" fill="none"/>
+  <!-- Saturno em vetor, sem depender da fonte de emojis. -->
+  <ellipse cx="500" cy="200" rx="69" ry="19" transform="rotate(-22 500 200)" stroke="url(#ring)" stroke-opacity=".55" stroke-width="7" />
+  <circle cx="500" cy="200" r="37" fill="url(#saturn)" />
+  <g clip-path="url(#planet-clip)" stroke="#9E8096" stroke-opacity=".24" stroke-width="8">
+    <path d="M461 183Q500 193 540 177M460 203Q500 213 542 197M464 223Q506 232 537 216" />
+  </g>
+  <path d="M436 222C441 240 535 219 563 180" stroke="url(#ring)" stroke-width="7" stroke-linecap="round" />
+  <path d="M438 225C459 232 532 213 559 184" stroke="#FFF4D6" stroke-opacity=".5" stroke-width="1.5" stroke-linecap="round" />
 
-  <!-- Linux -->
-  <text fill="#f7df1e" font-size="14" font-family="Arial" font-weight="bold">
-    <animateMotion dur="14s" repeatCount="indefinite"
-      path="M500,200 m-110,0 a110,110 0 1,1 220,0 a110,110 0 1,1 -220,0"/>
-    Linux
-  </text>
-
-  <!-- Docker -->
-  <text fill="#2496ED" font-size="14" font-family="Arial" font-weight="bold">
-    <animateMotion dur="18s" repeatCount="indefinite"
-      path="M500,200 m-150,0 a150,150 0 1,1 300,0 a150,150 0 1,1 -300,0"/>
-    AWS
-  </text>
-
-  <!-- Java -->
-  <text fill="#f89820" font-size="14" font-family="Arial" font-weight="bold">
-    <animateMotion dur="22s" repeatCount="indefinite"
-      path="M500,200 m-190,0 a190,190 0 1,1 380,0 a190,190 0 1,1 -380,0"/>
-    Java
-  </text>
-
-  <!-- Kubernetes -->
-  <text fill="#326CE5" font-size="14" font-family="Arial" font-weight="bold">
-    <animateMotion dur="26s" repeatCount="indefinite"
-      path="M500,200 m-230,0 a230,230 0 1,1 460,0 a230,230 0 1,1 -460,0"/>
-    Kubernetes
-  </text>
-
+  <!-- Mesma duração e posições defasadas mantêm os nomes separados. -->
+    <!-- Linux: a posição inicial também funciona sem animação. -->
+    <g class="orbiting" transform="translate(500 145)">
+      <animateMotion dur="36s" repeatCount="indefinite" calcMode="paced" rotate="0" path="M0 0 a135 55 0 1 1 0 110 a135 55 0 1 1 0 -110" />
+      <use href="#label-linux" />
+    </g>
+    <use class="still" href="#label-linux" transform="translate(500 145)" />
+    <!-- Docker: a posição inicial também funciona sem animação. -->
+    <g class="orbiting" transform="translate(690.211 174.661)">
+      <animateMotion dur="36s" repeatCount="indefinite" calcMode="paced" rotate="0" path="M0 0 a200 82 0 1 1 -380.422 50.678 a200 82 0 1 1 380.422 -50.678" />
+      <use href="#label-docker" />
+    </g>
+    <use class="still" href="#label-docker" transform="translate(690.211 174.661)" />
+    <!-- AWS: a posição inicial também funciona sem animação. -->
+    <g class="orbiting" transform="translate(655.763 288.992)">
+      <animateMotion dur="36s" repeatCount="indefinite" calcMode="paced" rotate="0" path="M0 0 a265 110 0 1 1 -311.526 -177.984 a265 110 0 1 1 311.526 177.984" />
+      <use href="#label-aws" />
+    </g>
+    <use class="still" href="#label-aws" transform="translate(655.763 288.992)" />
+    <!-- Java: a posição inicial também funciona sem animação. -->
+    <g class="orbiting" transform="translate(306.031 311.644)">
+      <animateMotion dur="36s" repeatCount="indefinite" calcMode="paced" rotate="0" path="M0 0 a330 138 0 1 1 387.938 -223.288 a330 138 0 1 1 -387.938 223.288" />
+      <use href="#label-java" />
+    </g>
+    <use class="still" href="#label-java" transform="translate(306.031 311.644)" />
+    <!-- Kubernetes: a posição inicial também funciona sem animação. -->
+    <g class="orbiting" transform="translate(119.577 147.467)">
+      <animateMotion dur="36s" repeatCount="indefinite" calcMode="paced" rotate="0" path="M0 0 a400 170 0 1 1 760.846 105.066 a400 170 0 1 1 -760.846 -105.066" />
+      <use href="#label-kubernetes" />
+    </g>
+    <use class="still" href="#label-kubernetes" transform="translate(119.577 147.467)" />
 </svg>
+
