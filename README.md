@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.plinioportifolio.xyz">
-    <img src="./portfolio.svg" alt="Meu portfólio" width="100%" />
+    <img src="./portifolio.svg" alt="Meu portfólio" width="100%" />
   </a>
 </p>
 
