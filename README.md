@@ -45,8 +45,6 @@
 💻 Experiência com **Java, AWS, Linux, Docker e automação de infraestrutura**  
 📍 **Goiás, Brasil**
 
-Gosto de entender o caminho completo de uma aplicação: do código à infraestrutura. Nos meus projetos pessoais, encontro espaço para testar ideias e colocar os estudos em prática.
-
 ---
 
 ## 🧠 Tecnologias
