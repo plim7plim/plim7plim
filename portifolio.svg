@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="184" viewBox="0 0 1000 184" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Meu portfólio — conheça meus projetos</title>
+  <desc id="desc">Acesse www.plinioportifolio.xyz para conhecer meus projetos.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1000" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33205F" /><stop offset=".6" stop-color="#241D48" /><stop offset="1" stop-color="#14263B" />
+    </linearGradient>
+    <linearGradient id="border" x1="0" x2="1000" y1="0" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" /><stop offset="1" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="182" rx="18" fill="url(#background)" stroke="url(#border)" stroke-width="2" />
+  <rect x="1" y="38" width="5" height="108" rx="2.5" fill="#A78BFA" />
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="40" y="61" fill="#F5F3FF" font-size="32" font-weight="700">Meu portfólio</text>
+    <text x="40" y="98" fill="#DDD6FE" font-size="22">Conheça meus projetos e o que venho construindo.</text>
+    <text x="40" y="143" fill="#93C5FD" font-size="19">www.plinioportifolio.xyz</text>
+    <rect x="720" y="61" width="236" height="62" rx="12" fill="#C4B5FD" />
+    <text x="747" y="100" fill="#21143C" font-size="21" font-weight="700">Acessar portfólio</text>
+  </g>
+  <path d="M923 88h14v14m0-14-16 16" stroke="#21143C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+
