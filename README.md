@@ -1,7 +1,6 @@
-<!-- 🌌 Header animado -->
 <p align="center">
   <a href="./header.svg">
-    <img src="./header.svg" alt="Saturno com Linux, Docker, AWS, Java e Kubernetes em órbita" width="100%" />
+    <img src="./header.svg" alt="Saturno com minhas tecnologias" width="100%" />
   </a>
 </p>
 
@@ -33,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.plinioportifolio.xyz">
-    <img src="portfolio.svg" alt="Meu portfólio" width="100%">
+    <img src="./portfolio.svg" alt="Meu portfólio" width="100%" />
   </a>
 </p>
 
