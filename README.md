@@ -96,9 +96,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=plim7plim&theme=tokyonight&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições de Plínio no GitHub"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=tokyonight"
+    alt="Linguagens utilizadas nos repositórios"
   />
 </p>
 
