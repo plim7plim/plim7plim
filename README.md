@@ -95,6 +95,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=plim7plim&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=8b5cf6&amp;point=38bdf8&amp;area=true&amp;area_color=8b5cf6&amp;hide_border=true" alt="Gráfico de contribuições de plim7plim no GitHub" width="100%" />
+  <img
+    src="https://streak-stats.demolab.com?user=plim7plim&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições de Plínio no GitHub"
+    width="100%"
+  />
 </p>
 
