@@ -95,9 +95,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plim7plim&theme=tokyonight"
-    alt="Linguagens utilizadas nos repositórios"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=plim7plim&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2f81f7&amp;icon_color=2f81f7&amp;text_color=c9d1d9" alt="Estatísticas de Plínio Peixoto no GitHub" width="56%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=plim7plim&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2f81f7&amp;text_color=c9d1d9" alt="Linguagens mais utilizadas por Plínio Peixoto" width="40%" />
 </p>
 
