@@ -7,12 +7,12 @@
 <h1 align="center">👋 Olá, eu sou o Plínio Peixoto</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack Jr. na Blu</strong><br />
-  Desenvolvimento, cloud e automação de infraestrutura.
+  <strong>Desenvolvedor Full Stack Jr. na Blu Promotora</strong><br />
+  JavaScript, HTML e CSS · AWS Certified Cloud Practitioner (CLF-C02)
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/plínio-peixoto/">
+  <a href="https://www.linkedin.com/in/plinio-peixoto/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/pliniops_/">
@@ -40,9 +40,10 @@
 
 ## 💫 Sobre mim
 
-💼 **Desenvolvedor Full-Stack Jr. na Blu**  
-🎓 Estudante de **Engenharia de Software** e **Sistemas para Internet**  
-💻 Experiência com **Java, AWS, Linux, Docker e automação de infraestrutura**  
+💼 **Desenvolvedor Full Stack Jr. na Blu Promotora**  
+🎓 **Engenharia de Software** na UniCesumar e **Sistemas para Internet** na UEG  
+💻 No trabalho: **JavaScript, HTML, CSS e phpMyAdmin**  
+☁️ **AWS Certified Cloud Practitioner (CLF-C02)**  
 📍 **Goiás, Brasil**
 
 ---
@@ -69,13 +70,21 @@
 
 ---
 
-## 🚀 Atualmente estudando
+## 🚀 Projetos
 
-- ☁️ **AWS Cloud Computing**, com foco na certificação **Developer – Associate (DVA-C02)**.
-- 🐳 **Docker e Kubernetes**, aprofundando os estudos em contêineres e orquestração.
-- 🔗 **Arquitetura de APIs REST e microsserviços**.
+- **[Bot de WhatsApp com IA e leitura de PDFs](https://github.com/plim7plim/botIA)** — projeto com Node.js, Express, Baileys e Gemini para responder perguntas com contexto extraído de documentos.
+- **[Brillare Jóias](https://github.com/plim7plim/brillare2)** — catálogo web com HTML, CSS, JavaScript e integração com Supabase para autenticação, produtos e fotos.
+- **[Metas diárias](https://github.com/plim7plim/metasDiarias)** — aplicação em TypeScript para acompanhar hábitos, sequências de dias e progresso.
+- **[Laboratório de logs e observabilidade](https://github.com/plim7plim/grafnaLoki)** — estudos baseados em curso da Alura, com Java, Spring Boot, PostgreSQL e integração com Loki e Prometheus.
 
-**✅ Certificação conquistada:** AWS Certified Cloud Practitioner **(CLF-C02)**.
+## ☁️ Foco de desenvolvimento
+
+Tenho interesse em **back-end Java, computação em nuvem e DevOps**. Nos projetos pessoais e laboratórios, exploro APIs, integração de serviços, contêineres e observabilidade.
+
+Minha trajetória também inclui experiência no **Sicoob Do Vale** e na **SSA - São Salvador Alimentos**, além da certificação **CPA-20**.
+
+📬 **Contato:** [pliniobr33@gmail.com](mailto:pliniobr33@gmail.com)  
+🌐 **Portfólio:** [plinioportifolio.xyz](https://www.plinioportifolio.xyz)
 
 ---
 
@@ -98,4 +107,5 @@
   <img src="https://github-stats-extended.vercel.app/api?username=plim7plim&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2f81f7&amp;icon_color=2f81f7&amp;text_color=c9d1d9" alt="Estatísticas de Plínio Peixoto no GitHub" width="56%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=plim7plim&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2f81f7&amp;text_color=c9d1d9" alt="Linguagens mais utilizadas por Plínio Peixoto" width="40%" />
 </p>
+
 
