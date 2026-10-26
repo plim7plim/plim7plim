@@ -48,6 +48,19 @@
 
 ---
 
+## 📚 Estudos atuais
+
+🛡️ **Santander - Cibersegurança do Zero à prática** · **DIO**  
+⏳ **Em andamento** · Nível básico · **37 horas**
+
+Estou ampliando meus estudos para entender como proteger sistemas e dados, identificar vulnerabilidades e responder a incidentes, conectando segurança ao desenvolvimento e à infraestrutura.
+
+- **Princípios da Cibersegurança** e fundamentos de proteção de sistemas e dados.
+- **Linux e Kali Linux** aplicados a laboratórios de segurança.
+- **Python, Medusa e fundamentos de IA** na trilha prática do programa.
+
+---
+
 ## 🧠 Tecnologias
 
 **Desenvolvimento**
